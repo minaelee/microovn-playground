@@ -2,6 +2,12 @@
 Multi-node
 ===========
 
+.. only:: integrated
+
+   .. note::
+      
+      MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
+
 This tutorial shows how to install a 3-node MicroOVN cluster.
 
 One big advantage of a multi-node cluster is that it provides redundancy
