@@ -6,7 +6,7 @@ Multi-node
 
    .. note::
       
-      MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
+      MicroCloud users can disregard the instructions on this page. They are irrelevant to a MicroCloud setup.
 
 This tutorial shows how to install a 3-node MicroOVN cluster.
 
