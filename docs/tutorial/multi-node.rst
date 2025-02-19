@@ -5,8 +5,8 @@ Multi-node
 .. only:: integrated
 
    .. note::
-      
-      MicroCloud users can disregard the instructions on this page, because MicroCloud handles MicroOVN configuration during its init process.
+
+      MicroCloud users can disregard the instructions on this page, because MicroCloud setup handles the installation and configuration of MicroOVN.
 
 This tutorial shows how to install a 3-node MicroOVN cluster.
 
